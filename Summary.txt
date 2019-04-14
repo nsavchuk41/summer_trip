@@ -11,3 +11,14 @@ close the issues (“resolve”, “close” ,  “fix”, etc. ) .
 We assigned to issues and learnt how to work with tables(“To do”, “In progress”, “Done” columns. ). 
 We created a few projects (with automatization and without this). 
 For the second one we made our manual settings for automatization.
+
+
+*Nataly* :
+During this practical task, I became familiar with many opportunities github,such as
+collaboration with other people creating and solving issues.We also united the problems
+in the milestones and appointed the responsible persons for more comfortable work on the project.
+We also used colorful tags to make it easier to sort and filter issues.
+In order to close issues we used "magic words" such as “resolve”, “close” ,  “fix”, etc.
+We also created an automated project that worked with columns “To do”, “In progress”, “Done”.
+(You can also add and create your own.)
+We also created another project to set up automation on our own.
