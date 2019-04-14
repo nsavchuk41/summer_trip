@@ -2,4 +2,12 @@ There will be our summaries!
 
 
 *Diana* :
-During this practice work I learnt a lot of GitHub tools such as collaboration with other people, making funny discussions , creating issues . Also we merged issues to the milestones and we used special labels. During our work we created few branches, sent pull requests and merge branches into one (mater) branch. We used special “magic” words to close the issues (“resolve”, “close” ,  “fix”, etc. ) . We assigned to issues and learnt how to work with tables(“To do”, “In progress”, “Done” columns. ). We created a few projects (with automatization and without this). For the second one we made our manual settings for automatization.
+During this practice work I learnt a lot of GitHub tools such as
+collaboration with other people, making funny discussions , creating issues .
+Also we merged issues to the milestones and we used special labels.
+During our work we created few branches, sent pull requests and merge
+branches into one (mater) branch. We used special “magic” words to 
+close the issues (“resolve”, “close” ,  “fix”, etc. ) . 
+We assigned to issues and learnt how to work with tables(“To do”, “In progress”, “Done” columns. ). 
+We created a few projects (with automatization and without this). 
+For the second one we made our manual settings for automatization.
